@@ -1,2 +1,2 @@
 # Tetris-kevintn
-Tetris Project
+A Java program that mimicks the game "Tetris." Custom Wallpaper, Sounds, and Design implemented.
